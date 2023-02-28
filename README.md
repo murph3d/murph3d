@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hello there 👋 I'm Robin 👨‍💻
+  Hello there 👋
 </h1>
 
 <p align="center">
-  A software developer from southwest Germany. My passion lies especially with topics in the field of visual computing.
+  I'm Robin, a software developer from southwest Germany. My passion lies especially with topics in the field of visual computing.
 </p>
 
 - 💼 Currently working as a software developer @ [CREATE 3D](https://www.create-3d.com/)
